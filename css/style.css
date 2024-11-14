@@ -1,0 +1,32 @@
+.container {
+  padding: 0 40px;
+  margin: 53px auto;
+  text-align: center;
+}
+.head-Quote {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  margin-bottom: 54px;
+}
+.directions {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  font-weight: 400;
+  margin-bottom: 35px;
+}
+.Quote {
+  font-size: 13px;
+  padding: 30px 91px;
+  color: white;
+  background-color: blue;
+}
+.Quote:hover {
+  background-color: green;
+}
+#quote-day {
+  font-size: 35px;
+}
+#quote-author {
+  font-size: 35px;
+}
